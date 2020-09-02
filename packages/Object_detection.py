@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 17 19:47:52 2020
-
-@author: paras
-"""
-
-
 from .social_distancing_config import MIN_CONFID 
 from .social_distancing_config import NMS_THRESHLD
 
