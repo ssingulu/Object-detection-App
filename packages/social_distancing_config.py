@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 17 19:38:18 2020
-
-@author: paras
-"""
-
 #BASIC PATH TO YOLO-DIR
 MODEL_PATH = "yolo-coco"
 
